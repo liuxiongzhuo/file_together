@@ -1,0 +1,9 @@
+{
+    "servers":[
+        {
+            "host":"主机名",
+            "startTime":0,
+            "endTime":9999999999999
+        }
+    ]
+}
